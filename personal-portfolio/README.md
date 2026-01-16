@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-This is a beginner-level HTML project created during Code Arena Internship.
+This is a beginner-level HTML project created during Developers Arena Internship.
 
 ## Features
 - About section
@@ -13,4 +13,5 @@ This is a beginner-level HTML project created during Code Arena Internship.
 - HTML5
 
 ## Author
+
 IQBAL AHMED
